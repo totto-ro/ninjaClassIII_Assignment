@@ -1,4 +1,4 @@
-# nAssignment: Ninja Class III
+# Assignment: Ninja Class III
 Part I
 Recreate the base Ninja class from scratch using ES6 classes. Your Ninja needs the following public attributes (do not worry about private variables for this assignment):
 
